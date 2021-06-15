@@ -1,0 +1,4 @@
+name: EnchantmentMagic
+version: 1.0.0
+main: ru.starrysparklez.enchantmentmagic.Main
+description: A plugin that adds the ability to build an "altar" to enchant items with enchanted books.
